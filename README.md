@@ -4,17 +4,17 @@ My first repository
 ## Danganronpa.
 **Mukuro Ikusaba.** *The sixteenth student, lying hidden somewhere in this school. The one they call the Ultimate Despair. Watch out for her.*
 
-> blockquote
+> that was a copypasta btw
 
-1. First item
-2. Second item
-3. Third item
+1. Danganronpa Trigger Happy Havoc
+2. Danganronpa 2: Goodbye Despair
+3. Danganronpa V3
 
-- First item
-- Second item
-- Third item
+- Danganronpa 1 was the weakest.
+- Danganronpa 2: Goodbye Despair was the best.
+- Danganronpa V3 is the second best.
 
-`code`
+`It was indeed an experience full of despair`
 
 ---
 
